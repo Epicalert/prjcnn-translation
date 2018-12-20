@@ -101,27 +101,6 @@ msgstr "UI scale"
 msgid "general-touchscale"
 msgstr "Touch control scale"
 
-msgid "platdiff-h0"
-msgstr "Platform differences"
-
-msgid "platdiff-h1"
-msgstr "No custom textures."
-
-msgid "platdiff-c1"
-msgstr "Custom textures are not supported on the mobile version."
-
-msgid "platdiff-h2"
-msgstr "No custom sounds."
-
-msgid "platdiff-c2"
-msgstr "Custom sound effects and music are not supported on the mobile version."
-
-msgid "platdiff-h3"
-msgstr "No external language packs."
-
-msgid "platdiff-c3"
-msgstr "External/third party language packs are not available on the mobile version."
-
 msgid "sett-grph-h"
 msgstr "Graphics settings"
 
