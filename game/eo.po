@@ -101,27 +101,6 @@ msgstr "Grandeco de Interfaco"
 msgid "general-touchscale"
 msgstr "Grandeco de Tuŝaj Regiloj"
 
-msgid "platdiff-h0"
-msgstr ""
-
-msgid "platdiff-h1"
-msgstr ""
-
-msgid "platdiff-c1"
-msgstr ""
-
-msgid "platdiff-h2"
-msgstr ""
-
-msgid "platdiff-c2"
-msgstr ""
-
-msgid "platdiff-h3"
-msgstr ""
-
-msgid "platdiff-c3"
-msgstr ""
-
 msgid "sett-grph-h"
 msgstr "GrafikAgordoj"
 

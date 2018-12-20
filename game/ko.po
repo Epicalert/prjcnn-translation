@@ -101,27 +101,6 @@ msgstr ""
 msgid "general-touchscale"
 msgstr ""
 
-msgid "platdiff-h0"
-msgstr "Platform differences"
-
-msgid "platdiff-h1"
-msgstr "커스텀 택스쳐가 없습니다."
-
-msgid "platdiff-c1"
-msgstr "모바일 버전에선 커스텀 택스쳐를 지원하지 않습니다."
-
-msgid "platdiff-h2"
-msgstr "커스텀 사운드가 없습니다."
-
-msgid "platdiff-c2"
-msgstr "모바일 버전에선 커스텀 이펙트와 사운드를 지원하지 않습니다."
-
-msgid "platdiff-h3"
-msgstr "외부 언어 팩이 없습니다."
-
-msgid "platdiff-c3"
-msgstr "모바일 버전에선 외부 언어 팩을 지원하지 않습니다."
-
 msgid "sett-grph-h"
 msgstr "그래픽 설정"
 
