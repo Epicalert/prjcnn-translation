@@ -1,0 +1,286 @@
+
+
+
+msgid "versiontext"
+msgstr ""
+"Project Connection v{0}, Unity {1}\n"
+"Konstruita je {2} en {3}\n"
+"Plenumas sur {4}\n"
+"2017-{5} Epicalert Technologies"
+
+msgid "setup-lang-h"
+msgstr "Elektu Lingvon"
+
+msgid "setup-lang-sh"
+msgstr "Bonvolu elkti vian lingvon."
+
+msgid "setup-scale-h"
+msgstr "Grandeco de Interfaco"
+
+msgid "setup-scale-sh"
+msgstr "Alĝustigu la grandeco ĝis estas taŭga."
+
+msgid "setup-end-h"
+msgstr "Bovenon."
+
+msgid "setup-end-sh"
+msgstr "Premi 'Bone' por daŭrigo."
+
+msgid "menu-servhost"
+msgstr "Lanĉi Servilon"
+
+msgid "menu-servdedi"
+msgstr "Lanĉi Dediĉita Servilon"
+
+msgid "menu-servconn"
+msgstr "Konekti al Servilon"
+
+msgid "menu-placeholder-ip"
+msgstr "Entajpu la IP de la Servilon"
+
+msgid "menu-placeholder-port"
+msgstr "Entajpu la Pordo de la Servilon"
+
+msgid "menu-settgrph"
+msgstr "Grafika Agordoj"
+
+msgid "general-yes"
+msgstr "Jes"
+
+msgid "general-no"
+msgstr "Ne"
+
+msgid "general-cnc"
+msgstr "Nuligi"
+
+msgid "general-ok"
+msgstr "Bone"
+
+msgid "general-apply"
+msgstr "Apliki"
+
+msgid "general-off"
+msgstr "Malaktiva"
+
+msgid "general-vlow"
+msgstr "Tre Malalta"
+
+msgid "general-low"
+msgstr "Malalta"
+
+msgid "general-med"
+msgstr "Mezalta"
+
+msgid "general-high"
+msgstr "Alta"
+
+msgid "general-vhigh"
+msgstr "Tre Alta"
+
+msgid "general-epic"
+msgstr "Extrema"
+
+msgid "general-resume"
+msgstr "Daŭrigi"
+
+msgid "general-returnmenu"
+msgstr "Reveni al la menuo"
+
+msgid "general-disconnect"
+msgstr "Malkonekti"
+
+msgid "general-err"
+msgstr "ERARO (LNG-1)"
+
+msgid "general-lang"
+msgstr "Lingvo"
+
+msgid "general-uiscale"
+msgstr "Grandeco de Interfaco"
+
+msgid "general-touchscale"
+msgstr "Grandeco de Tuŝaj Regiloj"
+
+msgid "platdiff-h0"
+msgstr ""
+
+msgid "platdiff-h1"
+msgstr ""
+
+msgid "platdiff-c1"
+msgstr ""
+
+msgid "platdiff-h2"
+msgstr ""
+
+msgid "platdiff-c2"
+msgstr ""
+
+msgid "platdiff-h3"
+msgstr ""
+
+msgid "platdiff-c3"
+msgstr ""
+
+msgid "sett-grph-h"
+msgstr "GrafikAgordoj"
+
+msgid "sett-grph-post"
+msgstr "Postaj trakdadoj"
+
+msgid "sett-grph-preset"
+msgstr "Antaŭagordo de Grafika Kvalito"
+
+msgid "sett-restartapply"
+msgstr "Relanĉi la ludo por apliki novajn argodojn."
+
+msgid "sett-lang-h"
+msgstr "Lingvagordoj"
+
+msgid "sett-lang-lang"
+msgstr "Lingvkodo"
+
+msgid "sett-placeholder-lcode"
+msgstr "Entajpu Lingvkodon"
+
+msgid "sett-debug-h"
+msgstr "Sencimiga Agordoj"
+
+msgid "sett-debug-fps"
+msgstr "Baskuligi la FPS-observilon"
+
+msgid "sett-debug-info"
+msgstr "Baskuligi Sencimigan Informojn"
+
+msgid "ingame-placeholder-uname"
+msgstr "Entajpu via Uzantnomon"
+
+msgid "ingame-username"
+msgstr "Uzantnomo"
+
+msgid "ingame-waiting"
+msgstr "Atendante ludantojn..."
+
+msgid "ingame-winner"
+msgstr "Gajnanto"
+
+msgid "ingame-ready"
+msgstr "Preta"
+
+msgid "ingame-menu-h"
+msgstr "Menuo"
+
+msgid "ingame-menu-settings"
+msgstr "Agordoj"
+
+msgid "ingame-menu-connectinfo-c"
+msgstr ""
+"Malloka IP: {0}\n"
+"Loka IP: {1}\n"
+"IP de la Servilo: {2}\n"
+"Pordo: {3}\n"
+"Ping: {4}ms"
+
+msgid "ingame-menu-connectinfo"
+msgstr "Konektinfomoj"
+
+msgid "warn-h"
+msgstr "Averto"
+
+msgid "warn-disconnect"
+msgstr "Vi malkonektos al la servilon se vi faros ĉi tiun. Ĉu daŭrigi?"
+
+msgid "warn-langnfinal"
+msgstr "Ĉi tiun lingvpakon eble enhavas malkorektan tradukojn. Ĉu vi ŝatas uzi senrigarde?"
+
+msgid "dcn-header"
+msgstr "Malkonektis"
+
+msgid "dcn-nullerror"
+msgstr "La erarmesaĝo ne povas ŝarĝi."
+
+
+
+msgid "err-DCN"
+msgstr "Malkonektis"
+
+msgid "err-DCN-0"
+msgstr "Nekonata konekta eraro okazis."
+
+msgid "err-DCN-1"
+msgstr "Versio de via ludo kaj versio de la servilo estas malsamaj. Bonvolu instali la sama versio kiel la servilo kaj reprovi."
+
+msgid "err-DCN-2"
+msgstr "Via IP-adreso estis malpermisata de la servilon."
+
+msgid "err-DCN-3"
+msgstr "Vi estis forigita de la servilon."
+
+msgid "err-DCN-4"
+msgstr "Vi malkonektis de la servilon."
+
+msgid "err-DCN-5"
+msgstr "Ne povis konekti al la servilon."
+
+
+msgid "err-LNG"
+msgstr "Lingvpaka eraro"
+
+msgid "err-LNG-0"
+msgstr "Nekonata lingvpaka eraro okazis."
+
+msgid "err-LNG-1"
+msgstr "La teksto al ĉi tiun UI elemento ne povis ŝarĝi en ĉi tiun lingvpakon."
+
+msgid "err-LNG-2"
+msgstr "Ne povas ŝarĝi la lingvpakon."
+
+
+msgid "err-NET"
+msgstr "Reta Eraro"
+
+msgid "err-NET-0"
+msgstr "Nekonata reta eraro okazis."
+
+msgid "err-NET-1"
+msgstr "Adreso de la servilo ne estis specifa."
+
+msgid "err-NET-2"
+msgstr "Pordo de la servilo ne estas valida."
+
+msgid "err-NET-3"
+msgstr "Retkonekto ne estas disponebla."
+
+
+msgid "err-MSC-0"
+msgstr "Nekonata eraro okazis."
+
+msgid "err-MSC-1"
+msgstr "Funkcio ankoraŭ ne realigita; ĉi tiu ludon estas nekompleta."
+
+msgid "auth-header"
+msgstr "Aŭtentigante..."
+
+msgid "auth-content"
+msgstr "Aŭtentigante, Bonvolu atendi."
+
+
+msgid "arena-stultaOne"
+msgstr "STULTA Batalejo Unu"
+
+msgid "arena-testRoom"
+msgstr "Testĉambro"
+
+msgid "arena-klepsia"
+msgstr "Areno de Monto Klepsio"
+
+
+msgid "item-wep-test"
+msgstr "Prova Armilo"
+
+msgid "item-wep-woods"
+msgstr "Malkruda Ligna Bastono de Morto"
+
+msgid "item-wep-woodh"
+msgstr "Kruda Ligna Bastono de Morto"
+

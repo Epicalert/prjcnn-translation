@@ -1,0 +1,286 @@
+
+
+
+msgid "versiontext"
+msgstr ""
+"Project Connection v{0}, Unity {1}\n"
+"Built on {2} at {3}\n"
+"Running on {4}\n"
+"2017-{5} Epicalert Technologies"
+
+msgid "setup-lang-h"
+msgstr "Select Language"
+
+msgid "setup-lang-sh"
+msgstr "Please select your language."
+
+msgid "setup-scale-h"
+msgstr "Interface scale"
+
+msgid "setup-scale-sh"
+msgstr "Adjust the UI scale to fit your device."
+
+msgid "setup-end-h"
+msgstr "Welcome to the Connection."
+
+msgid "setup-end-sh"
+msgstr "Press OK to continue."
+
+msgid "menu-servhost"
+msgstr "Host a Server"
+
+msgid "menu-servdedi"
+msgstr "Start a dedicated Server"
+
+msgid "menu-servconn"
+msgstr "Connect to Server"
+
+msgid "menu-placeholder-ip"
+msgstr "Enter server IP"
+
+msgid "menu-placeholder-port"
+msgstr "Enter Server Port"
+
+msgid "menu-settgrph"
+msgstr "Graphics Settings"
+
+msgid "general-yes"
+msgstr "Yes"
+
+msgid "general-no"
+msgstr "No"
+
+msgid "general-cnc"
+msgstr "Cancel"
+
+msgid "general-ok"
+msgstr "OK"
+
+msgid "general-apply"
+msgstr "Apply"
+
+msgid "general-off"
+msgstr "Off"
+
+msgid "general-vlow"
+msgstr "Very Low"
+
+msgid "general-low"
+msgstr "Low"
+
+msgid "general-med"
+msgstr "Medium"
+
+msgid "general-high"
+msgstr "High"
+
+msgid "general-vhigh"
+msgstr "Very High"
+
+msgid "general-epic"
+msgstr "Epic"
+
+msgid "general-resume"
+msgstr "Resume"
+
+msgid "general-returnmenu"
+msgstr "Back to menu"
+
+msgid "general-disconnect"
+msgstr "Disconnect"
+
+msgid "general-err"
+msgstr "ERROR (LNG-1)"
+
+msgid "general-lang"
+msgstr "Language"
+
+msgid "general-uiscale"
+msgstr "UI scale"
+
+msgid "general-touchscale"
+msgstr "Touch control scale"
+
+msgid "platdiff-h0"
+msgstr "Platform differences"
+
+msgid "platdiff-h1"
+msgstr "No custom textures."
+
+msgid "platdiff-c1"
+msgstr "Custom textures are not supported on the mobile version."
+
+msgid "platdiff-h2"
+msgstr "No custom sounds."
+
+msgid "platdiff-c2"
+msgstr "Custom sound effects and music are not supported on the mobile version."
+
+msgid "platdiff-h3"
+msgstr "No external language packs."
+
+msgid "platdiff-c3"
+msgstr "External/third party language packs are not available on the mobile version."
+
+msgid "sett-grph-h"
+msgstr "Graphics settings"
+
+msgid "sett-grph-post"
+msgstr "Post Processing"
+
+msgid "sett-grph-preset"
+msgstr "Graphics quality preset"
+
+msgid "sett-restartapply"
+msgstr "Restart the game to apply changes."
+
+msgid "sett-lang-h"
+msgstr "Language settings"
+
+msgid "sett-lang-lang"
+msgstr "Language code"
+
+msgid "sett-placeholder-lcode"
+msgstr "Enter Language Code"
+
+msgid "sett-debug-h"
+msgstr "Debug Settings"
+
+msgid "sett-debug-fps"
+msgstr "Toggle FPS monitor"
+
+msgid "sett-debug-info"
+msgstr "Toggle debug info"
+
+msgid "ingame-placeholder-uname"
+msgstr "Enter username"
+
+msgid "ingame-username"
+msgstr "Username"
+
+msgid "ingame-waiting"
+msgstr "Waiting for players..."
+
+msgid "ingame-winner"
+msgstr "Winner"
+
+msgid "ingame-ready"
+msgstr "Ready"
+
+msgid "ingame-menu-h"
+msgstr "Menu"
+
+msgid "ingame-menu-settings"
+msgstr "Settings"
+
+msgid "ingame-menu-connectinfo-c"
+msgstr ""
+"Global IP: {0}\n"
+"Local IP: {1}\n"
+"Server IP: {2}\n"
+"Port: {3}\n"
+"Ping to Server: {4}ms"
+
+msgid "ingame-menu-connectinfo"
+msgstr "Connection Info"
+
+msgid "warn-h"
+msgstr "Warning"
+
+msgid "warn-disconnect"
+msgstr "Doing this will disconnect you from the game. Continue?"
+
+msgid "warn-langnfinal"
+msgstr "This language pack may contain inaccurate translations. Would you like to use it anyway?"
+
+msgid "dcn-header"
+msgstr "Disconnected"
+
+msgid "dcn-nullerror"
+msgstr "Error message could not be loaded."
+
+
+
+msgid "err-DCN"
+msgstr "Disconnected"
+
+msgid "err-DCN-0"
+msgstr "An unknown connection error has occurred."
+
+msgid "err-DCN-1"
+msgstr "Your game version does not match the version of the server. Please install the same version as the server and try again."
+
+msgid "err-DCN-2"
+msgstr "Your IP adress has been banned from the server."
+
+msgid "err-DCN-3"
+msgstr "You have been kicked from the server."
+
+msgid "err-DCN-4"
+msgstr "You have disconnected from the server."
+
+msgid "err-DCN-5"
+msgstr "Could not connect to the server."
+
+
+msgid "err-LNG"
+msgstr "Language Pack Error"
+
+msgid "err-LNG-0"
+msgstr "An unknown error with this language pack has occurred."
+
+msgid "err-LNG-1"
+msgstr "The text for this UI element was not found in the language pack."
+
+msgid "err-LNG-2"
+msgstr "The language pack could not be loaded."
+
+
+msgid "err-NET"
+msgstr "Network Error"
+
+msgid "err-NET-0"
+msgstr "An unknown network error has occurred."
+
+msgid "err-NET-1"
+msgstr "Server address not set."
+
+msgid "err-NET-2"
+msgstr "Server port invalid."
+
+msgid "err-NET-3"
+msgstr "Internet connection not available."
+
+
+msgid "err-MSC-0"
+msgstr "An unknown error occurred."
+
+msgid "err-MSC-1"
+msgstr "Feature not yet implemented; this game is not yet complete."
+
+msgid "auth-header"
+msgstr "Authenticating..."
+
+msgid "auth-content"
+msgstr "Authenticating, Please wait."
+
+
+msgid "arena-stultaOne"
+msgstr "STULTA Arena One"
+
+msgid "arena-testRoom"
+msgstr "Test Room"
+
+msgid "arena-klepsia"
+msgstr "Mount Klepsia Arena"
+
+
+msgid "item-wep-test"
+msgstr "Test Weapon"
+
+msgid "item-wep-woods"
+msgstr "Soft Wooden Deathstick"
+
+msgid "item-wep-woodh"
+msgstr "Hard Wooden Deathstick"
+
