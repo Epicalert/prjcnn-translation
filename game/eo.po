@@ -1,5 +1,18 @@
-
-
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-21 05:39+0000\n"
+"PO-Revision-Date: 2018-12-21 05:39+0000\n"
+"Last-Translator: UserName LastName <user@example.com>\n"
+"Language-Team: Esperanto <http://35.192.85.209/projects/project-connection/"
+"game/eo/>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
 
 msgid "versiontext"
 msgstr ""
@@ -20,6 +33,7 @@ msgstr "Grandeco de Interfaco"
 msgid "setup-scale-sh"
 msgstr "Alĝustigu la grandeco ĝis estas taŭga."
 
+#, fuzzy
 msgid "setup-end-h"
 msgstr "Bovenon."
 
@@ -138,7 +152,7 @@ msgid "ingame-username"
 msgstr "Uzantnomo"
 
 msgid "ingame-waiting"
-msgstr "Atendante ludantojn..."
+msgstr "Atendante ludantojn…"
 
 msgid "ingame-winner"
 msgstr "Gajnanto"
@@ -178,8 +192,6 @@ msgstr "Malkonektis"
 msgid "dcn-nullerror"
 msgstr "La erarmesaĝo ne povas ŝarĝi."
 
-
-
 msgid "err-DCN"
 msgstr "Malkonektis"
 
@@ -201,7 +213,6 @@ msgstr "Vi malkonektis de la servilon."
 msgid "err-DCN-5"
 msgstr "Ne povis konekti al la servilon."
 
-
 msgid "err-LNG"
 msgstr "Lingvpaka eraro"
 
@@ -213,7 +224,6 @@ msgstr "La teksto al ĉi tiun UI elemento ne povis ŝarĝi en ĉi tiun lingvpako
 
 msgid "err-LNG-2"
 msgstr "Ne povas ŝarĝi la lingvpakon."
-
 
 msgid "err-NET"
 msgstr "Reta Eraro"
@@ -230,7 +240,6 @@ msgstr "Pordo de la servilo ne estas valida."
 msgid "err-NET-3"
 msgstr "Retkonekto ne estas disponebla."
 
-
 msgid "err-MSC-0"
 msgstr "Nekonata eraro okazis."
 
@@ -238,11 +247,10 @@ msgid "err-MSC-1"
 msgstr "Funkcio ankoraŭ ne realigita; ĉi tiu ludon estas nekompleta."
 
 msgid "auth-header"
-msgstr "Aŭtentigante..."
+msgstr "Aŭtentigante…"
 
 msgid "auth-content"
 msgstr "Aŭtentigante, Bonvolu atendi."
-
 
 msgid "arena-stultaOne"
 msgstr "STULTA Batalejo Unu"
@@ -253,7 +261,6 @@ msgstr "Testĉambro"
 msgid "arena-klepsia"
 msgstr "Areno de Monto Klepsio"
 
-
 msgid "item-wep-test"
 msgstr "Prova Armilo"
 
@@ -262,4 +269,3 @@ msgstr "Malkruda Ligna Bastono de Morto"
 
 msgid "item-wep-woodh"
 msgstr "Kruda Ligna Bastono de Morto"
-
