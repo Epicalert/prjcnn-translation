@@ -1,5 +1,18 @@
-
-
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-23 10:42+0000\n"
+"PO-Revision-Date: 2018-12-23 10:42+0000\n"
+"Last-Translator: UserName LastName <user@example.com>\n"
+"Language-Team: English <http://35.192.85.209/projects/project-connection/"
+"game/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
 
 msgid "versiontext"
 msgstr ""
@@ -138,7 +151,7 @@ msgid "ingame-username"
 msgstr "Username"
 
 msgid "ingame-waiting"
-msgstr "Waiting for players..."
+msgstr "Waiting for players…"
 
 msgid "ingame-winner"
 msgstr "Winner"
@@ -178,8 +191,6 @@ msgstr "Disconnected"
 msgid "dcn-nullerror"
 msgstr "Error message could not be loaded."
 
-
-
 msgid "err-DCN"
 msgstr "Disconnected"
 
@@ -201,7 +212,6 @@ msgstr "You have disconnected from the server."
 msgid "err-DCN-5"
 msgstr "Could not connect to the server."
 
-
 msgid "err-LNG"
 msgstr "Language Pack Error"
 
@@ -213,7 +223,6 @@ msgstr "The text for this UI element was not found in the language pack."
 
 msgid "err-LNG-2"
 msgstr "The language pack could not be loaded."
-
 
 msgid "err-NET"
 msgstr "Network Error"
@@ -230,7 +239,6 @@ msgstr "Server port invalid."
 msgid "err-NET-3"
 msgstr "Internet connection not available."
 
-
 msgid "err-MSC-0"
 msgstr "An unknown error occurred."
 
@@ -238,11 +246,10 @@ msgid "err-MSC-1"
 msgstr "Feature not yet implemented; this game is not yet complete."
 
 msgid "auth-header"
-msgstr "Authenticating..."
+msgstr "Authenticating…"
 
 msgid "auth-content"
 msgstr "Authenticating, Please wait."
-
 
 msgid "arena-stultaOne"
 msgstr "STULTA Arena One"
@@ -253,7 +260,6 @@ msgstr "Test Room"
 msgid "arena-klepsia"
 msgstr "Mount Klepsia Arena"
 
-
 msgid "item-wep-test"
 msgstr "Test Weapon"
 
@@ -262,4 +268,3 @@ msgstr "Soft Wooden Deathstick"
 
 msgid "item-wep-woodh"
 msgstr "Hard Wooden Deathstick"
-
