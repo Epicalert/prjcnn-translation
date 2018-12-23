@@ -268,3 +268,8 @@ msgstr "Soft Wooden Deathstick"
 
 msgid "item-wep-woodh"
 msgstr "Hard Wooden Deathstick"
+
+msgid "warn-langcorrupt"
+msgstr ""
+"This language pack may be corrupt or modified. Would you like to use it "
+"anyway?"
